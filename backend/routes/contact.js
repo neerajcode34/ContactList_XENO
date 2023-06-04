@@ -1,4 +1,4 @@
-const { validateContact, Contact } = require("../models/contact");
+const { validateContact, Contact } = require("../models/Contact");
 const auth = require("../middleware/auth");
 
 const mongoose = require("mongoose");
